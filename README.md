@@ -1,7 +1,7 @@
 
 # Stock Price Prediction using Stacked LSTM RNN
 
-###steps:
+### steps:
 
 1.Importing all the required libraries.
 
